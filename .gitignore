@@ -1,0 +1,11 @@
+build/
+*/build/
+*.console
+*.log
+*.o
+*.obj
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.pdf
