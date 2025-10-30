@@ -1,0 +1,4 @@
+/code/code/build/CMakeFiles/car.dir
+/code/code/build/CMakeFiles/pendulum.dir
+/code/code/build/CMakeFiles/edit_cache.dir
+/code/code/build/CMakeFiles/rebuild_cache.dir
